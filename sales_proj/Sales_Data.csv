@@ -1,0 +1,91 @@
+Date,Day_of_Week,Week_Number,Month_Name,Quarter,Region,Market_Segment,Product_Category,Predicted_Sales,Sales_Target,Variance_from_Target,Variance_Percentage,Unit_Price,Predicted_Boxes,Revenue_Per_Unit,Confidence_Level
+01-09-2024,Sunday,35,September,Q3,North America,Premium,Dark Chocolate,4380410.0,4818451.0,-438041.0,-9.09%,25.62,175216,170976,77.8%
+02-09-2024,Monday,36,September,Q3,Europe,Standard,Milk Chocolate,4065864.0,4472450.4,-406586.4000000004,-9.09%,34.26,162634,118676,91.4%
+03-09-2024,Tuesday,36,September,Q3,Asia Pacific,Budget,Premium Assorted,4455880.0,4901468.0,-445588.0,-9.09%,30.98,178235,143830,92.5%
+04-09-2024,Wednesday,36,September,Q3,South America,Wholesale,Specialty Flavors,4890218.0,5379239.8,-489021.7999999998,-9.09%,28.98,195608,168744,87.9%
+05-09-2024,Thursday,36,September,Q3,Middle East,Retail,Seasonal Limited,4019231.0,4421154.1,-401923.0999999996,-9.09%,22.34,160769,179911,92.7%
+06-09-2024,Friday,36,September,Q3,North America,Premium,Dark Chocolate,4019542.0,4421496.2,-401954.2000000002,-9.09%,22.34,160781,179925,86.4%
+07-09-2024,Saturday,36,September,Q3,Europe,Standard,Milk Chocolate,4918987.0,5410885.7,-491898.7000000002,-9.09%,20.87,196759,235696,87.0%
+08-09-2024,Sunday,36,September,Q3,Asia Pacific,Budget,Premium Assorted,4516773.0,4968450.3,-451677.2999999998,-9.09%,32.99,180670,136913,84.8%
+09-09-2024,Monday,37,September,Q3,South America,Wholesale,Specialty Flavors,3903760.0,4294136.0,-390376.0,-9.09%,29.02,156150,134519,75.6%
+10-09-2024,Tuesday,37,September,Q3,Middle East,Retail,Seasonal Limited,4405875.0,4846462.5,-440587.5,-9.09%,30.62,176235,143888,77.5%
+11-09-2024,Wednesday,37,September,Q3,North America,Premium,Dark Chocolate,3907367.0,4298103.7,-390736.7000000002,-9.09%,20.31,156294,192386,75.7%
+12-09-2024,Thursday,37,September,Q3,Europe,Standard,Milk Chocolate,3906522.0,4297174.2,-390652.2000000002,-9.09%,34.55,156260,113068,89.6%
+13-09-2024,Friday,37,September,Q3,Asia Pacific,Budget,Premium Assorted,4257729.0,4683501.9,-425772.9000000004,-9.09%,32.49,170309,131047,82.2%
+14-09-2024,Saturday,37,September,Q3,South America,Wholesale,Specialty Flavors,3189362.0,3508298.2,-318936.2000000002,-9.09%,23.19,127574,137531,86.7%
+15-09-2024,Sunday,37,September,Q3,Middle East,Retail,Seasonal Limited,3283061.0,3611367.1,-328306.1000000001,-9.09%,22.73,131322,144437,95.9%
+16-09-2024,Monday,38,September,Q3,North America,Premium,Dark Chocolate,3859846.0,4245830.6,-385984.5999999996,-9.09%,22.75,154393,169663,80.7%
+17-09-2024,Tuesday,38,September,Q3,Europe,Standard,Milk Chocolate,3636745.0,4000419.5,-363674.5,-9.09%,24.56,145469,148075,84.4%
+18-09-2024,Wednesday,38,September,Q3,Asia Pacific,Budget,Premium Assorted,4295071.0,4724578.1,-429507.0999999996,-9.09%,27.87,171802,154110,92.4%
+19-09-2024,Thursday,38,September,Q3,South America,Wholesale,Specialty Flavors,3689312.0,4058243.2,-368931.2000000002,-9.09%,26.48,147572,139324,80.3%
+20-09-2024,Friday,38,September,Q3,Middle East,Retail,Seasonal Limited,3439565.0,3783521.5,-343956.5,-9.09%,24.37,137582,141139,76.8%
+21-09-2024,Saturday,38,September,Q3,North America,Premium,Dark Chocolate,4866884.0,5353572.4,-486688.4000000004,-9.09%,29.18,194675,166788,81.7%
+22-09-2024,Sunday,38,September,Q3,Europe,Standard,Milk Chocolate,4028496.0,4431345.6,-402849.5999999996,-9.09%,22.09,161139,182367,78.7%
+23-09-2024,Monday,39,September,Q3,Asia Pacific,Budget,Premium Assorted,4174227.0,4591649.7,-417422.7000000002,-9.09%,24.38,166969,171215,96.4%
+24-09-2024,Tuesday,39,September,Q3,South America,Wholesale,Specialty Flavors,3434585.0,3778043.5,-343458.5,-9.09%,25.5,137383,134689,93.6%
+25-09-2024,Wednesday,39,September,Q3,Middle East,Retail,Seasonal Limited,3871408.0,4258548.8,-387140.7999999998,-9.09%,26.84,154856,144240,89.6%
+26-09-2024,Thursday,39,September,Q3,North America,Premium,Dark Chocolate,4196634.0,4616297.4,-419663.4000000004,-9.09%,31.78,167865,132052,95.0%
+27-09-2024,Friday,39,September,Q3,Europe,Standard,Milk Chocolate,3571215.0,3928336.5,-357121.5,-9.09%,23.0,142848,155270,93.5%
+28-09-2024,Saturday,39,September,Q3,Asia Pacific,Budget,Premium Assorted,4328514.0,4761365.4,-432851.4000000004,-9.09%,27.71,173140,156207,79.3%
+29-09-2024,Sunday,39,September,Q3,South America,Wholesale,Specialty Flavors,3844697.0,4229166.7,-384469.7000000002,-9.09%,28.89,153787,133080,95.5%
+30-09-2024,Monday,40,September,Q3,Middle East,Retail,Seasonal Limited,3998181.0,4397999.1,-399818.0999999996,-9.09%,20.7,159927,193148,87.4%
+01-10-2024,Tuesday,40,October,Q4,North America,Premium,Dark Chocolate,4152337.0,4567570.7,-415233.7000000002,-9.09%,29.11,166093,142642,93.6%
+02-10-2024,Wednesday,40,October,Q4,Europe,Standard,Milk Chocolate,5466796.0,6013475.6,-546679.5999999996,-9.09%,22.56,218671,242322,95.6%
+03-10-2024,Thursday,40,October,Q4,Asia Pacific,Budget,Premium Assorted,4467966.0,4914762.6,-446796.5999999996,-9.09%,20.98,178718,212963,82.3%
+04-10-2024,Friday,40,October,Q4,South America,Wholesale,Specialty Flavors,3909093.0,4300002.3,-390909.2999999998,-9.09%,34.23,156363,114200,77.5%
+05-10-2024,Saturday,40,October,Q4,Middle East,Retail,Seasonal Limited,4916312.0,5407943.2,-491631.2000000002,-9.09%,34.48,196652,142584,80.2%
+06-10-2024,Sunday,40,October,Q4,North America,Premium,Dark Chocolate,3822366.0,4204602.6,-382236.5999999996,-9.09%,32.13,152894,118965,84.8%
+07-10-2024,Monday,41,October,Q4,Europe,Standard,Milk Chocolate,4588309.0,5047139.9,-458830.9000000004,-9.09%,24.57,183532,186744,93.8%
+08-10-2024,Tuesday,41,October,Q4,Asia Pacific,Budget,Premium Assorted,3427346.0,3770080.6,-342734.6000000001,-9.09%,21.47,137093,159634,94.8%
+09-10-2024,Wednesday,41,October,Q4,South America,Wholesale,Specialty Flavors,3765829.0,4142411.9,-376582.8999999999,-9.09%,30.26,150633,124449,75.2%
+10-10-2024,Thursday,41,October,Q4,Middle East,Retail,Seasonal Limited,4582827.0,5041109.7,-458282.7000000002,-9.09%,26.6,183313,172286,86.7%
+11-10-2024,Friday,41,October,Q4,North America,Premium,Dark Chocolate,4873178.0,5360495.8,-487317.7999999998,-9.09%,21.83,194927,223233,84.6%
+12-10-2024,Saturday,41,October,Q4,Europe,Standard,Milk Chocolate,4569803.0,5026783.3,-456980.2999999998,-9.09%,27.43,182792,166598,80.1%
+13-10-2024,Sunday,41,October,Q4,Asia Pacific,Budget,Premium Assorted,4416416.0,4858057.6,-441641.5999999996,-9.09%,20.52,176656,215224,77.8%
+14-10-2024,Monday,42,October,Q4,South America,Wholesale,Specialty Flavors,4317415.0,4749156.5,-431741.5,-9.09%,33.64,172696,128341,82.8%
+15-10-2024,Tuesday,42,October,Q4,Middle East,Retail,Seasonal Limited,3687205.0,4055925.5,-368720.5,-9.09%,23.88,147488,154405,96.7%
+16-10-2024,Wednesday,42,October,Q4,North America,Premium,Dark Chocolate,4093799.0,4503178.9,-409379.9000000004,-9.09%,29.94,163751,136733,82.4%
+17-10-2024,Thursday,42,October,Q4,Europe,Standard,Milk Chocolate,4232919.0,4656210.9,-423291.9000000004,-9.09%,24.68,169316,171512,86.9%
+18-10-2024,Friday,42,October,Q4,Asia Pacific,Budget,Premium Assorted,5046012.0,5550613.2,-504601.2000000002,-9.09%,27.8,201840,181511,91.2%
+19-10-2024,Saturday,42,October,Q4,South America,Wholesale,Specialty Flavors,4664232.0,5130655.2,-466423.2000000002,-9.09%,28.2,186569,165398,83.4%
+20-10-2024,Sunday,42,October,Q4,Middle East,Retail,Seasonal Limited,3536400.0,3890040.0,-353640.0,-9.09%,22.77,141456,155309,97.4%
+21-10-2024,Monday,43,October,Q4,North America,Premium,Dark Chocolate,4654393.0,5119832.3,-465439.2999999998,-9.09%,34.54,186175,134753,97.1%
+22-10-2024,Tuesday,43,October,Q4,Europe,Standard,Milk Chocolate,4274935.0,4702428.5,-427493.5,-9.09%,31.63,170997,135154,80.8%
+23-10-2024,Wednesday,43,October,Q4,Asia Pacific,Budget,Premium Assorted,4118961.0,4530857.1,-411896.0999999996,-9.09%,34.09,164758,120826,86.4%
+24-10-2024,Thursday,43,October,Q4,South America,Wholesale,Specialty Flavors,4809331.0,5290264.1,-480933.0999999996,-9.09%,33.42,192373,143905,81.9%
+25-10-2024,Friday,43,October,Q4,Middle East,Retail,Seasonal Limited,5034193.0,5537612.3,-503419.2999999998,-9.09%,28.97,201367,173772,81.6%
+26-10-2024,Saturday,43,October,Q4,North America,Premium,Dark Chocolate,4981101.0,5479211.1,-498110.0999999996,-9.09%,33.83,199244,147239,75.8%
+27-10-2024,Sunday,43,October,Q4,Europe,Standard,Milk Chocolate,4033284.0,4436612.4,-403328.4000000004,-9.09%,21.33,161331,189089,89.0%
+28-10-2024,Monday,44,October,Q4,Asia Pacific,Budget,Premium Assorted,4317417.0,4749158.7,-431741.7000000002,-9.09%,22.94,172696,188204,86.6%
+29-10-2024,Tuesday,44,October,Q4,South America,Wholesale,Specialty Flavors,4660707.0,5126777.7,-466070.7000000002,-9.09%,20.68,186428,225372,76.2%
+30-10-2024,Wednesday,44,October,Q4,Middle East,Retail,Seasonal Limited,5006035.0,5506638.5,-500603.5,-9.09%,24.88,200241,201207,81.4%
+31-10-2024,Thursday,44,October,Q4,North America,Premium,Dark Chocolate,4227321.0,4650053.1,-422732.0999999996,-9.09%,25.83,169092,163659,95.9%
+01-11-2024,Friday,44,November,Q4,Europe,Standard,Milk Chocolate,4384808.0,4823288.8,-438480.7999999998,-9.09%,24.07,175392,182169,80.5%
+02-11-2024,Saturday,44,November,Q4,Asia Pacific,Budget,Premium Assorted,3892080.0,4281288.0,-389208.0,-9.09%,32.43,155683,120014,78.3%
+03-11-2024,Sunday,44,November,Q4,South America,Wholesale,Specialty Flavors,3844258.0,4228683.8,-384425.7999999998,-9.09%,25.35,153770,151647,86.3%
+04-11-2024,Monday,45,November,Q4,Middle East,Retail,Seasonal Limited,4920266.0,5412292.6,-492026.5999999996,-9.09%,24.21,196810,203232,97.7%
+05-11-2024,Tuesday,45,November,Q4,North America,Premium,Dark Chocolate,5211736.0,5732909.6,-521173.5999999996,-9.09%,28.14,208469,185207,80.6%
+06-11-2024,Wednesday,45,November,Q4,Europe,Standard,Milk Chocolate,4447194.0,4891913.4,-444719.4000000004,-9.09%,22.11,177887,201139,90.5%
+07-11-2024,Thursday,45,November,Q4,Asia Pacific,Budget,Premium Assorted,5023465.0,5525811.5,-502346.5,-9.09%,32.03,200938,156836,92.5%
+08-11-2024,Friday,45,November,Q4,South America,Wholesale,Specialty Flavors,4680025.0,5148027.5,-468002.5,-9.09%,21.12,187201,221592,80.5%
+09-11-2024,Saturday,45,November,Q4,Middle East,Retail,Seasonal Limited,4141197.0,4555316.7,-414119.7000000002,-9.09%,34.8,165647,118999,91.7%
+10-11-2024,Sunday,45,November,Q4,North America,Premium,Dark Chocolate,4680502.0,5148552.2,-468050.2000000002,-9.09%,31.58,187220,148210,83.5%
+11-11-2024,Monday,46,November,Q4,Europe,Standard,Milk Chocolate,5310911.0,5842002.1,-531091.0999999996,-9.09%,22.98,212436,231110,89.5%
+12-11-2024,Tuesday,46,November,Q4,Asia Pacific,Budget,Premium Assorted,4468389.0,4915227.9,-446838.9000000004,-9.09%,20.08,178735,222529,89.6%
+13-11-2024,Wednesday,46,November,Q4,South America,Wholesale,Specialty Flavors,5325763.0,5858339.3,-532576.2999999998,-9.09%,32.23,213030,165242,87.3%
+14-11-2024,Thursday,46,November,Q4,Middle East,Retail,Seasonal Limited,3085268.0,3393794.8,-308526.7999999998,-9.09%,30.6,123410,100825,77.1%
+15-11-2024,Friday,46,November,Q4,North America,Premium,Dark Chocolate,4928617.0,5421478.7,-492861.7000000002,-9.09%,30.94,197144,159295,94.2%
+16-11-2024,Saturday,46,November,Q4,Europe,Standard,Milk Chocolate,4535393.0,4988932.3,-453539.2999999998,-9.09%,31.57,181415,143661,82.4%
+17-11-2024,Sunday,46,November,Q4,Asia Pacific,Budget,Premium Assorted,4328955.0,4761850.5,-432895.5,-9.09%,21.11,173158,205066,79.3%
+18-11-2024,Monday,47,November,Q4,South America,Wholesale,Specialty Flavors,4538517.0,4992368.7,-453851.7000000002,-9.09%,25.38,181540,178822,75.9%
+19-11-2024,Tuesday,47,November,Q4,Middle East,Retail,Seasonal Limited,3425307.0,3767837.7,-342530.7000000002,-9.09%,21.74,137012,157557,88.6%
+20-11-2024,Wednesday,47,November,Q4,North America,Premium,Dark Chocolate,4372338.0,4809571.8,-437233.7999999998,-9.09%,32.95,174893,132696,90.6%
+21-11-2024,Thursday,47,November,Q4,Europe,Standard,Milk Chocolate,4681513.0,5149664.3,-468151.2999999998,-9.09%,29.35,187260,159506,75.4%
+22-11-2024,Friday,47,November,Q4,Asia Pacific,Budget,Premium Assorted,5282004.0,5810204.4,-528200.4000000004,-9.09%,24.96,211280,211618,86.8%
+23-11-2024,Saturday,47,November,Q4,South America,Wholesale,Specialty Flavors,4213329.0,4634661.9,-421332.9000000004,-9.09%,20.95,168533,201113,80.2%
+24-11-2024,Sunday,47,November,Q4,Middle East,Retail,Seasonal Limited,4058208.0,4464028.8,-405820.7999999998,-9.09%,24.66,162328,164566,89.8%
+25-11-2024,Monday,48,November,Q4,North America,Premium,Dark Chocolate,4222767.0,4645043.7,-422276.7000000002,-9.09%,24.88,168910,169725,79.0%
+26-11-2024,Tuesday,48,November,Q4,Europe,Standard,Milk Chocolate,4981971.0,5480168.1,-498197.0999999996,-9.09%,30.94,199278,161020,90.9%
+27-11-2024,Wednesday,48,November,Q4,Asia Pacific,Budget,Premium Assorted,4668108.0,5134918.8,-466810.7999999998,-9.09%,29.56,186724,157919,83.9%
+28-11-2024,Thursday,48,November,Q4,South America,Wholesale,Specialty Flavors,4208659.0,4629524.9,-420865.9000000004,-9.09%,33.31,168346,126348,96.5%
+29-11-2024,Friday,48,November,Q4,Middle East,Retail,Seasonal Limited,4767510.0,5244261.0,-476751.0,-9.09%,27.08,190700,176052,78.2%
